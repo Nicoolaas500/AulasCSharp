@@ -1,0 +1,6 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\VerificaSexo\VerificaSexo\bin\Debug\VerificaSexo.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\VerificaSexo\VerificaSexo\obj\Debug\VerificaSexo.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\VerificaSexo\VerificaSexo\bin\Debug\VerificaSexo.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\VerificaSexo\VerificaSexo\bin\Debug\VerificaSexo.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\VerificaSexo\VerificaSexo\obj\Debug\VerificaSexo.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\VerificaSexo\VerificaSexo\obj\Debug\VerificaSexo.pdb

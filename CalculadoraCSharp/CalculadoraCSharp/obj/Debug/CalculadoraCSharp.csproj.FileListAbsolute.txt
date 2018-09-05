@@ -1,0 +1,9 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Form1.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.Properties.Resources.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.GenerateResource.Cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb

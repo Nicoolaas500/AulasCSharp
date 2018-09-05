@@ -1,0 +1,11 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\bin\Debug\CadastroBásico.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\bin\Debug\CadastroBásico.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\bin\Debug\CadastroBásico.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\bin\Debug\CadastroBásico.xml
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.vbprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.Form1.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.Resources.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.vbproj.GenerateResource.Cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.xml
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CadastroBásico\CadastroBásico\obj\Debug\CadastroBásico.pdb

@@ -1,0 +1,9 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\bin\Debug\GeraSenha.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\bin\Debug\GeraSenha.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\bin\Debug\GeraSenha.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\obj\Debug\GeraSenha.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\obj\Debug\GeraSenha.Form1.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\obj\Debug\GeraSenha.Properties.Resources.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\obj\Debug\GeraSenha.csproj.GenerateResource.Cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\obj\Debug\GeraSenha.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\GeraSenha\GeraSenha\obj\Debug\GeraSenha.pdb

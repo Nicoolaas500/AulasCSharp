@@ -1,0 +1,6 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb

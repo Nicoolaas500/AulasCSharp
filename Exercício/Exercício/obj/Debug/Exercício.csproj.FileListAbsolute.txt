@@ -1,0 +1,6 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Exercício\Exercício\bin\Debug\Exercício.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Exercício\Exercício\bin\Debug\Exercício.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Exercício\Exercício\bin\Debug\Exercício.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Exercício\Exercício\obj\Debug\Exercício.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Exercício\Exercício\obj\Debug\Exercício.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Exercício\Exercício\obj\Debug\Exercício.pdb

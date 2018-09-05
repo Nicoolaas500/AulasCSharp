@@ -1,0 +1,6 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\MédiaExercício\MédiaExercício\bin\Debug\MédiaExercício.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\MédiaExercício\MédiaExercício\bin\Debug\MédiaExercício.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\MédiaExercício\MédiaExercício\bin\Debug\MédiaExercício.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\MédiaExercício\MédiaExercício\obj\Debug\MédiaExercício.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\MédiaExercício\MédiaExercício\obj\Debug\MédiaExercício.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\MédiaExercício\MédiaExercício\obj\Debug\MédiaExercício.pdb

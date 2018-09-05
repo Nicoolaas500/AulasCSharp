@@ -1,0 +1,9 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\bin\Debug\CalculeData.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\bin\Debug\CalculeData.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\bin\Debug\CalculeData.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\obj\Debug\CalculeData.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\obj\Debug\CalculeData.Data.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\obj\Debug\CalculeData.Properties.Resources.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\obj\Debug\CalculeData.csproj.GenerateResource.Cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\obj\Debug\CalculeData.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\CalculeData\CalculeData\obj\Debug\CalculeData.pdb

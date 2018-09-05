@@ -1,0 +1,6 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\RecebeValores\RecebeValores\bin\Debug\RecebeValores.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\RecebeValores\RecebeValores\obj\Debug\RecebeValores.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\RecebeValores\RecebeValores\bin\Debug\RecebeValores.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\RecebeValores\RecebeValores\bin\Debug\RecebeValores.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\RecebeValores\RecebeValores\obj\Debug\RecebeValores.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\RecebeValores\RecebeValores\obj\Debug\RecebeValores.pdb

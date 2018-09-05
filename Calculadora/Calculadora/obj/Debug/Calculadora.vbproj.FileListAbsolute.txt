@@ -1,0 +1,11 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\nicolas.gpereira1\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources

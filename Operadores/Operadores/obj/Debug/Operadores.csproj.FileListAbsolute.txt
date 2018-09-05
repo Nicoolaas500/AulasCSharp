@@ -1,0 +1,6 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Operadores\Operadores\bin\Debug\Operadores.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Operadores\Operadores\obj\Debug\Operadores.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Operadores\Operadores\bin\Debug\Operadores.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Operadores\Operadores\bin\Debug\Operadores.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Operadores\Operadores\obj\Debug\Operadores.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\Operadores\Operadores\obj\Debug\Operadores.pdb

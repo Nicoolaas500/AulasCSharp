@@ -1,0 +1,5 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\ValorPoupança\ValorPoupança\bin\Debug\ValorPoupança.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\ValorPoupança\ValorPoupança\bin\Debug\ValorPoupança.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\ValorPoupança\ValorPoupança\bin\Debug\ValorPoupança.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\ValorPoupança\ValorPoupança\obj\Debug\ValorPoupança.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\ValorPoupança\ValorPoupança\obj\Debug\ValorPoupança.pdb

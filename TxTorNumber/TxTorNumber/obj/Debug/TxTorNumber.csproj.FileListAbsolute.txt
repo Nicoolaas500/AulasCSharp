@@ -1,0 +1,9 @@
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\bin\Debug\TxTorNumber.exe.config
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\obj\Debug\TxTorNumber.csprojResolveAssemblyReference.cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\obj\Debug\TxTorNumber.Form1.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\obj\Debug\TxTorNumber.Properties.Resources.resources
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\obj\Debug\TxTorNumber.csproj.GenerateResource.Cache
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\bin\Debug\TxTorNumber.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\bin\Debug\TxTorNumber.pdb
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\obj\Debug\TxTorNumber.exe
+c:\users\nicolas.gpereira1\documents\visual studio 2015\Projects\TxTorNumber\TxTorNumber\obj\Debug\TxTorNumber.pdb
